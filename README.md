@@ -1,2 +1,2 @@
-# dathaton
-Dathaton project for ds4a 
+# datathon
+Datathon project for ds4a 
